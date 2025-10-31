@@ -23,3 +23,4 @@ jobs:
 
       - name: Build and run tests
         run: mvn -B -DskipTests=false clean test
+        working-directory: ./TallerCI
