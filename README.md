@@ -36,3 +36,5 @@ b. despliegue automaticamente cuando haga push a main
 ![img_4.png](img_4.png)
 
 ![img_5.png](img_5.png)
+
+D. El acceso a swagger esta en este link luego de correr la apliación: http://localhost:8080/swagger-ui/index.html
