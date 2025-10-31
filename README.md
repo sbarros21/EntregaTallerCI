@@ -12,7 +12,7 @@ Probamos un POST por medio de Postman para crear una receta
 
 ![img_1.png](img_1.png)
 
-Lo vemos en el navegador por medio de LocalHost para verificar que se creo adecuadamente y quedo guardado en la base de datos
+Lo vemos en el navegador por medio de LocalHost para verificar que se creo y que quedo guardado en la base de datos
 
 ![img_2.png](img_2.png)
 
@@ -21,4 +21,3 @@ para el servicio. Evidencia:
 
 ![img_3.png](img_3.png)
 
-c. GitHub Actions
