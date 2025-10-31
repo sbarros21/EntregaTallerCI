@@ -67,3 +67,5 @@ b. despliegue automaticamente cuando haga push a main
 ![img_5.png](TallerCI/docs/img_5.png)
 
 D. El acceso a swagger esta en este link luego de correr la apliación: http://localhost:8080/swagger-ui/index.html
+
+![img.png](TallerCI/docs/swagger.png)
